@@ -46,5 +46,6 @@ namespace ListaLigada.Logica
 
             return cadenaLista.ToString();
         }
+
     }
 }
